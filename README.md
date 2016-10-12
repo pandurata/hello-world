@@ -1,2 +1,6 @@
 # hello-world
-test repository
+Hey there,
+
+just here to learn a bit...
+
+:-)
